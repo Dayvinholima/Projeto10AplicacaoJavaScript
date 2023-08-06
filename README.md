@@ -7,7 +7,7 @@
 
 3-Jogo da Velha (Tic-Tac-Toe): Implemente o clássico jogo da velha para ser jogado em um navegador.
 
-4-Galeria de Fotos Responsiva: Crie uma galeria de fotos que se ajuste a diferentes tamanhos de tela e dispositivos.
+4-Galeria de Fotos : Crie uma galeria apresentanção em carrossel.
 
 5-Clone do Twitter: Desenvolva uma versão simplificada do Twitter, com funcionalidades de postagem de tweets e exibição de feeds.
 
