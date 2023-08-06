@@ -1,4 +1,4 @@
-# Projeto10AplicacaoJavaScript
+# Projeto10AplicacaoJavaScript(em construção)
  10 aplicações javascript para se ter no github Claro! Existem muitas aplicações interessantes em JavaScript que podem ser úteis para ter no GitHub. Aqui estão 10 ideias de projetos para considerar:
 
 1-To-Do App: Um aplicativo simples de lista de tarefas que permite adicionar, marcar como concluído e excluir tarefas.
